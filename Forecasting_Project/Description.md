@@ -1,0 +1,1 @@
+This academic project uses publicly available automobile sales data & attempts to predict (forecast) sales for the next year accounting for seasonal indices using the Holt- Winter's method & method of forecating by Moving averages
